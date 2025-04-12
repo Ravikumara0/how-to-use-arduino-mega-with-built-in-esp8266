@@ -232,7 +232,7 @@ Below is a labeled diagram of the Arduino Mega 2560 with built-in ESP8266:
 
 Refer to the DIP switch configuration table for proper settings based on the desired operation:
 
-![DIP Switch Configuration](./images/dip-switch-configuration.jpg)
+![DIP Switch Configuration](./dip-switch-configuration.jpg)
 
 | Mode                                      | Switch 1 | Switch 2 | Switch 3 | Switch 4 | Switch 5 | Switch 6 | Switch 7 | Switch 8 |
 |------------------------------------------|----------|----------|----------|----------|----------|----------|----------|----------|
