@@ -213,7 +213,7 @@ void loop() {
 
 Below is a labeled diagram of the Arduino Mega 2560 with built-in ESP8266:
 
-![Arduino Mega 2560 with ESP8266](./images/arduino-mega-esp8266-board.jpg)
+![Arduino Mega 2560 with ESP8266](./arduino-mega-esp8266-board.jpg)
 
 1. **Wi-Fi Module (ESP8266)**: Provides Wi-Fi connectivity for IoT applications.  
 2. **ATmega2560 Microcontroller**: The main microcontroller for running Arduino sketches.  
